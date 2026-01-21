@@ -1,7 +1,7 @@
 # Jhonatan Yugsan #
 Hello, GitHub! 👋
 
-I'm <Your Name Here>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
+I'm <Your Jhonatan Yugsan>, a student at Brigham Young University-Idaho interested in <Your Profession/Interests such as: computer science, data science, web development, machine learning, ...>. Welcome to my GitHub profile!
 
 ## About Me
 
