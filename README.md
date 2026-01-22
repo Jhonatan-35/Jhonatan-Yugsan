@@ -27,14 +27,13 @@ I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently stu
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
 </div>
-   icons/postgresql/postgresql-original.svg
-
-
+ 
 - Skills: <Any Other Skills or Tools You Want to Highlight>
     *  Create Front-end web pages
     *  Create Back-End web pages 
     *  Database creation management with SQL
-    *  
+    *  Database creation management with Mongodb
+    *  Connect web pages to a database
 
 ## Let's Connect!
 
