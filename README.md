@@ -37,6 +37,7 @@ I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently stu
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/jhonatanyugsan/) profile
 - Here is my [Facebook]( https://www.facebook.com/jhonatan.pomatoca.9/?locale=es_LA/) profile
-- Here is my [Instagram]( https://www.instagram.com/jhonatan.yugsan/) profile
+- Here is my [Instagram]( https://www.instagram.com/jhonatan.yugsan) profile
+- Here is my [Twitter](https://x.com/JhonatanYugsan) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 
