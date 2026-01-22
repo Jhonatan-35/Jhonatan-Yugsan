@@ -34,6 +34,8 @@ I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently stu
     *  Database creation management with SQL
     *  Database creation management with Mongodb
     *  Connect web pages to a database
+    *  Programming with Python
+    *  Programming with Javascript
 
 ## Let's Connect!
 
