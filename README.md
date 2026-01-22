@@ -25,9 +25,10 @@ I'm Jhonatan Yugsan, a student Brigham  Young University-Idaho I'm currently stu
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" **alt="Mysql" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" **alt="Mongodb" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
 </div>
-   
-     icons/mongodb/mongodb-original.svg
+   icons/postgresql/postgresql-original.svg
+
 
 - Skills: <Any Other Skills or Tools You Want to Highlight>
     *  Create Front-end web pages
